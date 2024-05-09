@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "y4Jdbn0k/He3L1TG2THr/Ggb3HfMZt2XlGXjoMWMU8M=",
+  "Source": "lab14",
+  "BasePath": "_content/lab14",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "lab14\\wwwroot",
+      "Source": "lab14",
+      "ContentRoot": "D:\\Project\\lab14\\wwwroot\\",
+      "BasePath": "_content/lab14",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Project\\lab14\\wwwroot\\401.html",
+      "SourceId": "lab14",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Project\\lab14\\wwwroot\\",
+      "BasePath": "_content/lab14",
+      "RelativePath": "401.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\401.html"
+    },
+    {
+      "Identity": "D:\\Project\\lab14\\wwwroot\\404.html",
+      "SourceId": "lab14",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Project\\lab14\\wwwroot\\",
+      "BasePath": "_content/lab14",
+      "RelativePath": "404.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\404.html"
+    }
+  ]
+}
